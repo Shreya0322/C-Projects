@@ -21,9 +21,9 @@ This repository contains a collection of C programming projects developed to str
 Each project is organized into its own folder and contains the source code along with a brief description.
 
 ## Requirements
--GCC Compiler
--Linux or Windows
--Command Line/Terminal
+- GCC Compiler
+- Linux or Windows
+- Command Line/Terminal
 
 ## Compilation
 Compile any C program using:
