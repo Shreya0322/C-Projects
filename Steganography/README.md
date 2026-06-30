@@ -39,9 +39,9 @@ Compile all source files using:
 
 #### Arguments:
 
--d – Decode mode
-stego.bmp – Image containing the hidden message
-output.txt – Output file where the decoded message is stored
+- -d – Decode mode
+- stego.bmp – Image containing the hidden message
+- output.txt – Output file where the decoded message is stored
 
 ## Project Workflow
 - Read the secret text file.
